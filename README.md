@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Danchoimod/LF-Launcher/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" width="128" alt="LF Launcher Logo" />
+  <img src="https://raw.githubusercontent.com/Danchoimod/LF-Launcher/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="128" alt="LF Launcher Logo" />
 </p>
 
 <h1 align="center">🎮 LF Launcher</h1>
@@ -59,10 +59,10 @@ See the [LICENSE](LICENSE) file or visit [https://www.gnu.org/licenses/gpl-3.0.h
 
 ## 👥 Credits
 
-Huge thanks to all contributors, developers, testers, and supporters who make Origin Client better every day.
+Huge thanks to all contributors, developers, testers, and supporters who make LF Launcher better every day.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Danchoimod/LF-Launcher/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" width="80">
+  <img src="https://raw.githubusercontent.com/Danchoimod/LF-Launcher/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80">
 </p>
 
 <h4 align="center">Built with ❤️ by the Minecraft Bedrock community.</h4>
