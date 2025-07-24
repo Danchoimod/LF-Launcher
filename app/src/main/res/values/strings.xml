@@ -4,6 +4,6 @@
 	<string name="default_string">Hello World!</string>
 	<string name="mbl2_desc">Experimental Build</string>
 
-	<string name="welcome">Origin Client - Minecraft Bedrock Client</string>
+	<string name="welcome">LF Launcher - Minecraft Bedrock Client</string>
 	<string name="mc_pkgname">minecraft package id:</string>
 </resources>

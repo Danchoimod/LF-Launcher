@@ -11,11 +11,11 @@
 
 	<TextView
 		android:id="@+id/textview"
+		style="@style/AppTitleStyle"
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
-		android:text="Origin Client"
 		android:layout_marginBottom="32dp"
-		style="@style/AppTitleStyle" />
+		android:text="LF Launcher" />
 
 	<com.google.android.material.card.MaterialCardView
 		android:layout_width="match_parent"
