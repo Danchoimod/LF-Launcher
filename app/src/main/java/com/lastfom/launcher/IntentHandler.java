@@ -1,4 +1,4 @@
-package com.origin.launcher;
+package com.lastfom.launcher;
 
 
 import android.content.Intent;

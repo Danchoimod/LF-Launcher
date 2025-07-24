@@ -193,7 +193,7 @@
         <provider
                 android:name="androidx.core.content.FileProvider"
                 android:exported="false"
-                android:authorities="com.origin.launcher.fileprovider"
+                android:authorities="com.lastfom.launcher.fileprovider"
                 android:grantUriPermissions="true">
             <meta-data
                     android:name="android.support.FILE_PROVIDER_PATHS"

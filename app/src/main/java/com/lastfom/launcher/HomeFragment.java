@@ -1,4 +1,4 @@
-package com.origin.launcher;
+package com.lastfom.launcher;
 
 import android.content.DialogInterface;
 import org.jetbrains.annotations.NotNull;
@@ -9,19 +9,18 @@ import android.os.Looper;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Button;
-import android.widget.EditText;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import androidx.core.content.FileProvider;
 
 import android.content.pm.ApplicationInfo;
-import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.os.Build;
 import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
+
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -42,8 +41,6 @@ import java.util.zip.ZipFile;
 import java.util.zip.ZipInputStream;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
-import java.util.ArrayList;
-import android.os.Looper;
 
 public class HomeFragment extends Fragment {
 

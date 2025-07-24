@@ -1,4 +1,4 @@
-package com.origin.launcher;
+package com.lastfom.launcher;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
